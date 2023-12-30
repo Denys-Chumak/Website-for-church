@@ -1,2 +1,1 @@
-# Repository
-web-site for church Warburg
+# web-site for church Warburg
